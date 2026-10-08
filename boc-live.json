@@ -1,0 +1,30 @@
+</> JSON
+{
+  "version": "1.1",
+  "updated": "2026-10-08",
+  "latest": {
+    "title": "CHOICES",
+    "subtitle": "NEW SINGLE • 09.10.2026",
+    "message": "Energy. Emotion. That is Choices.",
+    "video_url": "",
+    "active": true
+  },
+  "concerts": {
+    "upcoming": [],
+    "fallback_text": "NO UPCOMING SHOWS"
+  },
+  "media": {
+    "moment_of_resurrection": "https://www.youtube.com/watch?v=VcpQqIaPiDQ",
+    "dark_side_of_the_moon": "https://www.youtube.com/watch?v=h6x1y4K6fzA",
+    "every_single_tear": "https://www.youtube.com/watch?v=xStNLSuOv24"
+  },
+  "socials": {
+    "facebook": "https://www.facebook.com/profile.php?id=100084490248239",
+    "instagram": "https://www.instagram.com/bricksofcolors/",
+    "youtube": "https://www.youtube.com/@bricksofcolorsband",
+    "spotify": "https://open.spotify.com/artist/3rIWplpIKBHSdhxlBr0Cu1"
+  },
+  "app": {
+    "min_supported_config": 1
+  }
+}
