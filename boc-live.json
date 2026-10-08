@@ -5,7 +5,7 @@
     "title": "CHOICES",
     "subtitle": "NEW SINGLE • 09.10.2026",
     "message": "Energy. Emotion. That is Choices.",
-    "image_url": "https://raw.githubusercontent.com/bricksofcolors/boc-app-live/main/latest_choices.png",
+    "image_url": "latest_choices.png",
     "video_url": "",
     "track_index": 1,
     "active": true
@@ -70,20 +70,14 @@
       "audio_url": "https://pub-648e3712c0f24b36bc05b2afe0f308dc.r2.dev/BRICKS OF COLORS - LEN BUD.mp3",
       "cover_url": "cover_first_contact.jpg",
       "duration": "07:25"
-    },
-    {
-  "title": "TEST SIGNAL 11",
-  "audio_url": "https://pub-648e3712c0f24b36bc05b2afe0f308dc.r2.dev/BRICKS OF COLORS - CHOICES.mp3",
-  "cover_url": "https://raw.githubusercontent.com/bricksofcolors/boc-app-live/main/cover_choices.jpg",
-  "duration": "07:15"
-}
+    }
   ],
   "concerts": {
     "upcoming": [],
     "fallback_text": "NO UPCOMING SHOWS"
   },
   "media": {
-    "choices_image_url": "https://raw.githubusercontent.com/bricksofcolors/boc-app-live/main/cover_choices.jpg",
+    "choices_image_url": "cover_choices.jpg",
     "moment_of_resurrection": "https://www.youtube.com/watch?v=VcpQqIaPiDQ",
     "dark_side_of_the_moon": "https://www.youtube.com/watch?v=h6x1y4K6fzA",
     "every_single_tear": "https://www.youtube.com/watch?v=xStNLSuOv24",
