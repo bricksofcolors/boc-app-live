@@ -6,9 +6,73 @@
     "title": "CHOICES",
     "subtitle": "NEW SINGLE • 09.10.2026",
     "message": "Energy. Emotion. That is Choices.",
+    "image_url": "LASTsignalChoices.png",
     "video_url": "",
+    "track_index": 1,
     "active": true
   },
+  "tracks": [
+    {
+      "title": "Choices",
+      "audio_url": "https://pub-648e3712c0f24b36bc05b2afe0f308dc.r2.dev/BRICKS OF COLORS - CHOICES.mp3",
+      "cover_url": "BOC_CHOICES_cover_2000.jpg",
+      "duration": "07:15"
+    },
+    {
+      "title": "The Moment of Resurrection",
+      "audio_url": "https://pub-648e3712c0f24b36bc05b2afe0f308dc.r2.dev/BRICKS OF COLORS - THE MOMENT OF RESURRECTION.mp3",
+      "cover_url": "b9fb7dc0-3b08-4af3-8d74-4dfd104ff9be.png",
+      "duration": "04:06"
+    },
+    {
+      "title": "Our Run",
+      "audio_url": "https://pub-648e3712c0f24b36bc05b2afe0f308dc.r2.dev/BRICKS OF COLORS - OUR RUN.mp3",
+      "cover_url": "IMG-20240723-WA0000.jpg",
+      "duration": "06:05"
+    },
+    {
+      "title": "Dark Side of the Moon",
+      "audio_url": "https://pub-648e3712c0f24b36bc05b2afe0f308dc.r2.dev/BRICKS OF COLORS - DARK SIDE OF THE MOON.mp3",
+      "cover_url": "IMG-20240723-WA0000.jpg",
+      "duration": "05:02"
+    },
+    {
+      "title": "Ayn Tamshi a Sinuhet",
+      "audio_url": "https://pub-648e3712c0f24b36bc05b2afe0f308dc.r2.dev/BRICKS OF COLORS - AYN TAMSHI A SINUHET.mp3",
+      "cover_url": "IMG-20240723-WA0000.jpg",
+      "duration": "08:50"
+    },
+    {
+      "title": "Every Single Tear",
+      "audio_url": "https://pub-648e3712c0f24b36bc05b2afe0f308dc.r2.dev/BRICKS OF COLORS - EVERY SINGLE TEAR.mp3",
+      "cover_url": "IMG-20240723-WA0000.jpg",
+      "duration": "07:30"
+    },
+    {
+      "title": "Fly Far Away",
+      "audio_url": "https://pub-648e3712c0f24b36bc05b2afe0f308dc.r2.dev/BRICKS OF COLORS - FLY FAR AWAY.mp3",
+      "cover_url": "IMG-20240723-WA0000.jpg",
+      "duration": "07:20"
+    },
+    {
+      "title": "Broken",
+      "audio_url": "https://pub-648e3712c0f24b36bc05b2afe0f308dc.r2.dev/BRICKS OF COLORS - BROKEN.mp3",
+      "cover_url": "IMG-20240723-WA0000.jpg",
+      "duration": "04:07"
+    },
+    {
+      "title": "Mystification",
+      "audio_url": "https://pub-648e3712c0f24b36bc05b2afe0f308dc.r2.dev/BRICKS OF COLORS - MYSTIFICATION.mp3",
+      "cover_url": "IMG-20240723-WA0000.jpg",
+      "duration": "08:41"
+    },
+    {
+      "title": "Len buď",
+      "audio_url": "https://pub-648e3712c0f24b36bc05b2afe0f308dc.r2.dev/BRICKS OF COLORS - LEN BUD.mp3",
+      "cover_url": "IMG-20240723-WA0000.jpg",
+      "duration": "07:25"
+    }
+  ],
   "concerts": {
     "upcoming": [],
     "fallback_text": "NO UPCOMING SHOWS"
@@ -16,7 +80,9 @@
   "media": {
     "moment_of_resurrection": "https://www.youtube.com/watch?v=VcpQqIaPiDQ",
     "dark_side_of_the_moon": "https://www.youtube.com/watch?v=h6x1y4K6fzA",
-    "every_single_tear": "https://www.youtube.com/watch?v=xStNLSuOv24"
+    "every_single_tear": "https://www.youtube.com/watch?v=xStNLSuOv24",
+    "broken": "https://www.youtube.com/watch?v=B91qu3n8v9g",
+    "making_of": "https://www.youtube.com/watch?v=lytz3HiFp_Y"
   },
   "socials": {
     "facebook": "https://www.facebook.com/profile.php?id=100084490248239",
